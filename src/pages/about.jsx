@@ -41,11 +41,11 @@ export default function About(){
             </Typography>
             <Typography variant='h5' component='h2' mt={4}>Credits</Typography>
             <Typography mt={2}>
-                Designed and developed by Osama Siddiquee
+                Designed and developed by Dileep
             </Typography>
             <Typography variant='h5' component='h2' mt={4}>Links</Typography>
-            <Typography mt={2}>Github project link - <a target='_blank' rel='noreferrer' href="https://github.com/osSidd/admin-panel">Code</a></Typography>
-            <Typography mt={2}>Live link - <a target='_blank' rel='noreferrer' href="https://admin-panel-omega-silk.vercel.app/">Live</a></Typography>
+            <Typography mt={2}>Github link - <a target='_blank' rel='noreferrer' href="https://github.com/dileepkumar35/News-Admin-Panel">Code</a></Typography>
+            {/* <Typography mt={2}>Live link - <a target='_blank' rel='noreferrer' href="https://">Live</a></Typography> */}
         </Box>
     )
 }
